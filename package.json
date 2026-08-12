@@ -1,0 +1,12 @@
+{
+  "name": "priva-player-api",
+  "version": "1.0.0",
+  "description": "Priva Player API - Vercel Serverless",
+  "main": "api/play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@definisi/vidsrc-scraper": "^1.0.0"
+  }
+}
